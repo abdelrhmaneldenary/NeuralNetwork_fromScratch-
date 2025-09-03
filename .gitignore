@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual environment
+venv/
+.env/
+.venv/
+ENV/
+
+# Data (keep only small demo files if needed)
+data/dataset.csv
+data/processed_dataset.csv
+
+# Models
+models/
+*.pkl
+*.h5
+*.joblib
+
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
