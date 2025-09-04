@@ -1,6 +1,5 @@
 import numpy as np
 '''' 
-(Denary_number_one)
 okay we want to calculate the dervative of the loss with respect to w but we cannot do that directly we will do that using chain rule through three
 steps 
 (dl dervative of the losss, da dervative of the input after passing through activation function, dz dervative of the input after passin through the weights and biases)
